@@ -1,6 +1,6 @@
 function login() {
     const password = document.getElementById('password').value;
-    if (password === '29102021fyj') {  // Reemplaza 'tu_clave_de_acceso' con la clave que desees
+    if (password === 'jannyteamo') {  // Reemplaza 'tu_clave_de_acceso' con la clave que desees
         document.getElementById('login-container').style.display = 'none';
         document.getElementById('gallery-container').style.display = 'block';
     } else {
